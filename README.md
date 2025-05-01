@@ -1,17 +1,12 @@
 # **Allele Specific Expression in Alzheimer's Disease\**
-
 <br /><br />
+
+## Citation and contact
+If you used or adapted our code in your study, please cite our paper [Under submission]. If you run into issues, you can contact authors: zishan.wang{at}mssm.edu or kuan-lin.huang{at}mssm.edu.
+<br /><br /><br />
 ## **Introduction**
 Five folders were listed, with each contains R code for a specific analysis. Each folder includes a corresponding explanatory section as following.
 <br /><br />
-## Citation
-If you used or adapted our code in your study, please cite our paper [Under submission].
-<br /><br />
-## Contact
-If you run into issues, you can contact authors: zishan.wang{at}mssm.edu or kuan-lin.huang{at}mssm.edu.
-<br /><br /><br />
-
-## **./SampleClassification**
 
 **SampleClassification.R**
 
