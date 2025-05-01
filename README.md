@@ -2,7 +2,7 @@
 
 
 Code for the analysis in this project.<br /><br />
-## **./AlleleSpecificExpression**
+## **./SampleClassification**
 
 **ASE_basic.R**
 
@@ -23,7 +23,7 @@ Extract information of NC P/LPs for genes of interest to generate the format req
 <br /><br /><br />
 
 
-## **./GeneralFunctions**
+## **./ASEVariantIdentification**
 
 Functions used in this analysis.
 
@@ -31,7 +31,7 @@ Functions used in this analysis.
 
 
 
-## **./VariantDistributionAcrossAncestries**
+## **./ASEVariantEnrichmentAtChromosomalBand**
 
 **AR.R**
 
@@ -50,7 +50,7 @@ Plots for the frequency/count of NC P/LP carriers in each ancestry among the ACM
 
 
 
-## **./VariantImpactOnExp**
+## **./ASEVariantAssociationWithClinical**
 
 **VariantImpactOnExp.R**
 
@@ -77,7 +77,7 @@ Detailed information for sample-variants of for genes whose expression is signif
 
 
 
-## **./gnomad/bcftools**
+## **./ADAssociatedASEVariantIdentification**
 
 Command of bcftools to extract information of variant of interests from gnomad dataset.
 
@@ -90,16 +90,6 @@ Variant count of predisposing variants in the matched gnomAD ancestry (European 
 **statistic.R**
 
 (Significance of) Correlations of variant frequencies in the matched ancestries between TCGA and gnomAD.
-
-## **./gnomad/bcftools_process**
-
-**process.R**
-
-Preprocess the information of variant of interests from gnomad dataset.
-
-**plot_ancestry.R**
-
-Plot for the frequency/count of ACMG status/genes across different ancestries.
 
 
 ## Citation
