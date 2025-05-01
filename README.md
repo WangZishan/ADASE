@@ -70,6 +70,6 @@ Analysis and plot for Figure 3B, where fraction of ASE variants showing suggesti
 
 Application of linear mixed effects model onto allele expression profile for calculating (BH-corrected) P-value assessing whether one variant exhibites differential allelic imbalance between AD samples and Controls.
 
-**2_ADAssociatedASEUsingOutputFromLinearMFixedModel.R**
+**2_ADAssociatedASEUsingOutputFromLinearMixedModel.R**
 
 Identification of AD associated ASE variant using output from the linear mixed effects model as input.
