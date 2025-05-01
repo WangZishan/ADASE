@@ -72,4 +72,4 @@ Application of linear mixed effects model onto allele expression profile for cal
 
 **2_ADAssociatedASEUsingOutputFromLinearMFixedModel.R**
 
-Identification of AD associated variant using output from the linear mixed effects model as input.
+Identification of AD associatedn ASE variant using output from the linear mixed effects model as input.
