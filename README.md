@@ -1,7 +1,6 @@
 # **Allele Specific Expression in Alzheimer's Disease\**
 
-## Citation
-If you used or adapted our code in your study, please cite our paper [Under submission].
+
 
 
 Code for the analysis in this project.<br /><br />
@@ -23,6 +22,8 @@ library(MaPR)
 
 <br /><br />
 
+## Citation
+If you used or adapted our code in your study, please cite our paper [Under submission].
 
 <br /><br />
 ## Contact
