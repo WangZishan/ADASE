@@ -20,7 +20,7 @@ Classify all samples into Control or AsymAD or AD, based on a rubric considering
 
 **1_BinomialTest.R**
 
-Calculate the P-value assessing whether one variant exhibite allele specific expression based on binomial test.
+Calculate the P-value assessing whether one variant exhibites allele specific expression based on binomial test.
 
 **2_ASEVariantIdentification.R**
 
