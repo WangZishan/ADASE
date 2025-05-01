@@ -2,7 +2,7 @@
 
 <br /><br />
 
-Code for the analysis in this project.
+Code for the analysis in this project as following:
 ## **./SampleClassification**
 
 **SampleClassification.R**
@@ -84,6 +84,7 @@ Variant count of predisposing variants in the matched gnomAD ancestry (European 
 
 (Significance of) Correlations of variant frequencies in the matched ancestries between TCGA and gnomAD.
 
+<br /><br />
 
 ## Citation
 If you used or adapted our code in your study, please cite our paper [Under submission].
