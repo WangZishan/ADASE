@@ -51,25 +51,13 @@ Plot for (1) chromosomal bands with highest ASE variant fraction, (2) chromosoma
 
 ## **ASEVariantAssociationWithClinical**
 
-**VariantImpactOnExp.R**
+**1_Boxplot.R**
 
 Identification of genes whose expression is affected by related NC P/LPs.
 
-**VariantImpactOnExp_Plot.R**
+**2_Heatmap.R**
 
 Volcano plots for genes whose expression is affected by related NC P/LPs.
-
-**PlotPercentileExp.R**
-
-Distribution of percentile expression in a specific cancer at NC P/LP carriers of genes whose expression is significantly/suggestively impacted by NC P/LPs or enriched with significant ASE variants. Color of node represents variant type. Color of node edge represent ASE enrichment status.
-
-**PlotPercentileExp_DiffExpSplitCount.R**
-
-Count/Proportion of sample-variants across expression splits vs predicted variant function/ASE status for genes whose expression is significantly/suggestively impacted by NC P/LPs or enriched with significant ASE variants.
-
-**PlotPercentileExp_DiffExpSplitCount_GeneInfo.R**
-
-Detailed information for sample-variants of for genes whose expression is significantly/suggestively impacted by NC P/LPs or enriched with significant ASE variants.
 
 <br /><br /><br />
 
@@ -80,10 +68,10 @@ Detailed information for sample-variants of for genes whose expression is signif
 
 Command of bcftools to extract information of variant of interests from gnomad dataset.
 
-**count.R**
+**1_LinearMixedModel.R**
 
 Variant count of predisposing variants in the matched gnomAD ancestry (European of gnomAD is the union of FIN and NFE populations). TCGA population-specific NC P/LPs, exclusively found in a specific TCGA ancestry, are shown as a triangle. Top NC P/LP or top TCGA ancestry-specific NC P/LP, ranked by allele counts in TCGA or gnomAD, was labelled.
 
-**statistic.R**
+**2_ADAssociatedASEUsingOutputFromLinearMFixedModel.R**
 
 (Significance of) Correlations of variant frequencies in the matched ancestries between TCGA and gnomAD.
