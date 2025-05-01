@@ -6,7 +6,7 @@ If you used or adapted our code in your study, please cite our paper [Under subm
 
 If you run into issues, you can contact authors: zishan.wang{at}mssm.edu or kuan-lin.huang{at}mssm.edu.
 
-Five folders were listed, with each contains R code for a specific analysis. Each folder includes a corresponding explanatory section as following.
+Five folders were listed, with each containing R code for a specific analysis. Each folder includes a corresponding explanatory section as following.
 <br /><br /><br />
 
 ## **SampleClassification**
