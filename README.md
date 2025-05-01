@@ -24,7 +24,7 @@ Calculate the P-value assessing whether one variant exhibites allele specific ex
 
 **2_ASEVariantIdentification.R**
 
-ASE detection from bi-allelic heterozygous variants of autosomal chromosomes that passed stringent quality control in each sample.
+ASE detection from bi-allelic heterozygous variants of autosomal chromosomes that pass stringent quality control in each sample.
 
 <br /><br /><br />
 
