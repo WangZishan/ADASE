@@ -1,5 +1,4 @@
-# ADASE
-# **Master regulators of protein abundance\**
+# **Allele Specific Expression in Alzheimer's Disease\**
 
 
 ## Introduction
