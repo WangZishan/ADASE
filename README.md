@@ -28,17 +28,17 @@ ASE detection from bi-allelic heterozygous variants of autosomal chromosomes tha
 
 ## **./ASEVariantEnrichmentAtChromosomalBand**
 
-**AR.R**
+**1_RegionVsChrBandCount.R**
 
-Plots for the carrier frequency and NC P/LPs count of autosomal recessive (AR) and autosomal dominant (AD) genes across ancestries.
+Count of ASE variants across chromosomal bands and brain regions.
 
-**Distribution_for_ACMG_classification.R**
+**2_SampleVarSignificance.R**
 
-Plots for the frequency of NC P/LP carriers and count of NC P/LPs across ancestries.
+Permutating ASE variants within samples of each brain region to calculate the P-value assessing whether a chromosomal band was enriched by ASE variants among AD samples or AsymADs or Controls.
 
-**Distribution_for_genes.R**
+**3_HighFreqOrDiffChrBandPlot.R**
 
-Plots for the frequency/count of NC P/LP carriers in each ancestry among the ACMG 59 genes and the top 10% genes (ranked by sums of all defined ancestry frequencies, excluding Mix and Other).
+Plot for (1) chromosomal bands with highest ASE variant fraction, (2) chromosomal bands exhibiting different patterns of ASE variants enrichment between AD samples and Controls.
 
 <br /><br /><br />
 
