@@ -14,8 +14,13 @@ Classify all samples into Control or AsymAD or AD, based on a rubric considering
 
 ## **./ASEVariantIdentification**
 
-Identification of rare NC P/LPs associated with allele specific expression (ASE).
+**1_BinomialTest.R**
 
+Calculate the P-value assessing whether one variant exhibite allele specific expression based on binomial test.
+
+**2_ASEVariantIdentification.R**
+
+ASE detection from bi-allelic heterozygous variants of autosomal chromosomes that passed stringent quality control in each sample.
 
 <br /><br /><br />
 
