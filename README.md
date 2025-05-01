@@ -15,7 +15,7 @@ Classify all samples into Control or AsymAD or AD, based on a rubric considering
 <br /><br /><br />
 
 
-## **./ASEVariantIdentification**
+## **ASEVariantIdentification**
 
 **1_BinomialTest.R**
 
@@ -29,7 +29,7 @@ ASE detection from bi-allelic heterozygous variants of autosomal chromosomes tha
 
 
 
-## **./ASEVariantEnrichmentAtChromosomalBand**
+## **ASEVariantEnrichmentAtChromosomalBand**
 
 **1_RegionVsChrBandCount.R**
 
@@ -48,7 +48,7 @@ Plot for (1) chromosomal bands with highest ASE variant fraction, (2) chromosoma
 
 
 
-## **./ASEVariantAssociationWithClinical**
+## **ASEVariantAssociationWithClinical**
 
 **VariantImpactOnExp.R**
 
@@ -75,7 +75,7 @@ Detailed information for sample-variants of for genes whose expression is signif
 
 
 
-## **./ADAssociatedASEVariantIdentification**
+## **ADAssociatedASEVariantIdentification**
 
 Command of bcftools to extract information of variant of interests from gnomad dataset.
 
