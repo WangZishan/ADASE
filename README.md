@@ -1,7 +1,7 @@
 # **Allele Specific Expression in Alzheimer's Disease\**
 
 <br /><br />
-**Introduction**
+## **./Introduction**
 
 Five folders were listed, with each contains R code for a specific analysis. Each folder includes a corresponding explanatory section as following.
 
