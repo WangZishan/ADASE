@@ -6,12 +6,10 @@ If you used or adapted our code in your study, please cite our paper [Under subm
 <br /><br /><br />
 ## **Introduction**
 Five folders were listed, with each contains R code for a specific analysis. Each folder includes a corresponding explanatory section as following.
-<br /><br />
+<br /><br /><br />
 
-**SampleClassification.R**
-
+## **SampleClassification.R**
 Classify all samples into Control or AsymAD or AD, based on a rubric considering CERAD, Braak score and Dementia status used in one previous study [https://www.nature.com/articles/s41591-020-0815-6].
-
 <br /><br /><br />
 
 
