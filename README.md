@@ -81,8 +81,6 @@ Detailed information for sample-variants of for genes whose expression is signif
 
 Command of bcftools to extract information of variant of interests from gnomad dataset.
 
-## **./gnomad/ancestry_variant_distribution**
-
 **count.R**
 
 Variant count of predisposing variants in the matched gnomAD ancestry (European of gnomAD is the union of FIN and NFE populations). TCGA population-specific NC P/LPs, exclusively found in a specific TCGA ancestry, are shown as a triangle. Top NC P/LP or top TCGA ancestry-specific NC P/LP, ranked by allele counts in TCGA or gnomAD, was labelled.
