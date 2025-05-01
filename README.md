@@ -53,7 +53,7 @@ Plot for (1) chromosomal bands with highest ASE variant fraction, (2) chromosoma
 
 **1_Boxplot.R**
 
-Analysis and plot for Figure 3A, where comparision of ASE variant frequency between samples grouped by their difference in terms of risk factors (age of death, APOE genotype, and sex) for AD samples and Controls across brain regions.
+Analysis and plot for Figure 3A, where comparision of ASE variant frequency between samples grouped by their difference in terms of risk clinical factors (age of death, APOE genotype, and sex) for AD samples and Controls across brain regions.
 
 **2_Heatmap.R**
 
