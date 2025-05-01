@@ -66,12 +66,10 @@ Analysis and plot for Figure 3B, where fraction of ASE variants showing suggesti
 
 ## **ADAssociatedASEVariantIdentification**
 
-Command of bcftools to extract information of variant of interests from gnomad dataset.
-
 **1_LinearMixedModel.R**
 
-Variant count of predisposing variants in the matched gnomAD ancestry (European of gnomAD is the union of FIN and NFE populations). TCGA population-specific NC P/LPs, exclusively found in a specific TCGA ancestry, are shown as a triangle. Top NC P/LP or top TCGA ancestry-specific NC P/LP, ranked by allele counts in TCGA or gnomAD, was labelled.
+Application of linear mixed effects model onto allele expression profile for calculating (BH-corrected) P-value assessing whether one variant exhibited differential allelic imbalance between AD samples and Controls.
 
 **2_ADAssociatedASEUsingOutputFromLinearMFixedModel.R**
 
-(Significance of) Correlations of variant frequencies in the matched ancestries between TCGA and gnomAD.
+Identification of AD associated variant using output from the linear mixed effects model as input.
