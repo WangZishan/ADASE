@@ -1,10 +1,14 @@
 # **Allele Specific Expression in Alzheimer's Disease\**
 
 <br /><br />
-## **./Introduction**
-
+## **Introduction**
 Five folders were listed, with each contains R code for a specific analysis. Each folder includes a corresponding explanatory section as following.
-
+<br /><br />
+## Citation
+If you used or adapted our code in your study, please cite our paper [Under submission].
+<br /><br />
+## Contact
+If you run into issues, you can contact authors: zishan.wang{at}mssm.edu or kuan-lin.huang{at}mssm.edu.
 <br /><br /><br />
 
 ## **./SampleClassification**
@@ -87,11 +91,3 @@ Variant count of predisposing variants in the matched gnomAD ancestry (European 
 **statistic.R**
 
 (Significance of) Correlations of variant frequencies in the matched ancestries between TCGA and gnomAD.
-
-<br /><br />
-
-## Citation
-If you used or adapted our code in your study, please cite our paper [Under submission].
-<br /><br />
-## Contact
-If you run into issues, you can contact authors: zishan.wang{at}mssm.edu or kuan-lin.huang{at}mssm.edu.
