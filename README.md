@@ -99,4 +99,4 @@ Preprocess of the single-cell RNA-seq dataset.
 
 **2_SingleCellRNASeqAnalysis.ipynb**
 
-Differential expression analysis between pathology statuses (AD, AsymAD and Control) based on single-cell RNA-seq dataset .
+Differential expression analysis between pathology statuses (AD, AsymAD and Control) based on the single-cell RNA-seq dataset .
