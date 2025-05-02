@@ -65,13 +65,13 @@ Analysis and plot for Figure 3B, where fraction of ASE variants showing suggesti
 
 ## **ASEVariantOfADAssociatedGenes**
 
-**1_Boxplot.R**
+**1_ASEVariantOfADAssociatedGenes.R**
 
-Analysis and plot for Figure 3A, where comparision of ASE variant frequency between samples grouped by their difference in terms of risk clinical factors (age of death, APOE genotype, and sex) for AD samples and Controls across brain regions.
+Analysis and plot for Figure 4, where ASE variant carrier frequency was considered to select top 5 ASE variants in AD samples.
 
-**2_Heatmap.R**
+**2_ASEVariantOfADAssociatedGenes.R**
 
-Analysis and plot for Figure 3B, where fraction of ASE variants showing suggestive or significant associations in the comparison analysis from Figure 3A.
+Analysis and plot for Figure S4, where ASE variant sample frequency was considered to select top 5 ASE variants in AD samples.
 
 <br /><br /><br />
 
