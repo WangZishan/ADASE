@@ -95,8 +95,8 @@ Identification of AD associated ASE variant using output from the linear mixed e
 
 **1_SingleCellRNASeqAnalysis.ipynb**
 
-Application of linear mixed effects model onto allele expression profile for calculating (BH-corrected) P-value assessing whether one variant exhibites differential allelic imbalance between AD samples and Controls.
+Preprocess of the single-cell RNA-seq dataset.
 
 **2_SingleCellRNASeqAnalysis.ipynb**
 
-Identification of AD associated ASE variant using output from the linear mixed effects model as input.
+Differential expression analysis between pathology statuses (AD, AsymAD and Control) based on single-cell RNA-seq dataset .
