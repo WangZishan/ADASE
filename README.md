@@ -86,3 +86,17 @@ Application of linear mixed effects model onto allele expression profile for cal
 **2_ADAssociatedASEUsingOutputFromLinearMixedModel.R**
 
 Identification of AD associated ASE variant using output from the linear mixed effects model as input.
+
+<br /><br /><br />
+
+
+
+## **SingleCellRNASeqAnalysis**
+
+**1_SingleCellRNASeqAnalysis.ipynb**
+
+Application of linear mixed effects model onto allele expression profile for calculating (BH-corrected) P-value assessing whether one variant exhibites differential allelic imbalance between AD samples and Controls.
+
+**2_SingleCellRNASeqAnalysis.ipynb**
+
+Identification of AD associated ASE variant using output from the linear mixed effects model as input.
