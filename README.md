@@ -99,8 +99,8 @@ Preprocess of the single-cell RNA-seq dataset.
 
 **2_SingleCellRNASeqAnalysis.ipynb**
 
-Differential expression analysis between pathology statuses (AD, AsymAD and Control) based on the single-cell RNA-seq dataset.
+Differential expression analysis between pathology statuses (AD, AsymAD and Control) based on the single-cell RNA-seq dataset, using scanpy module of Python.
 
 **3_SingleCellRNASeqAnalysis.ipynb**
 
-Differential expression analysis between pathology statuses (AD, AsymAD and Control) based on the single-cell RNA-seq dataset, using FindMarkers function from Seurat R package.
+Differential expression analysis between pathology statuses (AD, AsymAD and Control) based on the single-cell RNA-seq dataset, using FindMarkers function within Seurat R package.
